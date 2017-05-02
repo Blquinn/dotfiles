@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Other than these dotfiles
+!.gitignore
+!.gitconfig
+!.vimrc
+!.tmux.conf
+!.zshrc
+
+!pull
+
